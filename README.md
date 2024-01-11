@@ -2,7 +2,7 @@
 Generate random RGB and HEX colors with ease using this simple and responsive React app.
 
 ## Demo
-[View Demo]()
+[View Demo](https://random-color-generator-by-junaid.netlify.app/)
 
 ## Features
 
